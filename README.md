@@ -1,4 +1,1 @@
 # Civilization-Scales-Series
-13 Frameworks for Understanding the Advancement of Intelligent Civilizations
-This series provides the most comprehensive treatment ever assembled of the frameworks scientists, philosophers, and futurists have developed to classify, measure, and understand the advancement of civilizations. Each book is a standalone monograph offering full historical context, named researchers, original publication details, mathematical foundations, concrete numerical examples, and explicit connections to every other framework in the series.
-The series moves from the foundational energy and technology scales, through evolutionary and efficiency frameworks, to composite indices and unified syntheses, culminating in cosmic engineering and the absolute physical limits of computation, information, and reality itself.
